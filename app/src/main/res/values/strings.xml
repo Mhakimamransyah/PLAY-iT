@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CafeTune</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_custom_data">CustomDataActivity</string>
+    <string name="title_activity_login">login</string>
+    <string name="WhereICanFind"><u>Where I Can Find This Code ?</u></string>
+    <string name="SeeListMusic"><b><u>See Music List Available</u></b></string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_genre">GenreActivity</string>
+    <string name="title_activity_queue">QueueActivity</string>
+</resources>
