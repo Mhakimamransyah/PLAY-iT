@@ -1,5 +1,6 @@
 # PLAY-iT(User)
-Android music cafe applications.
+requesting music to web server using socket.io. 
+Make sure your smartphone connected with server web apps(node.js).
 ## Android home page
 ![android](https://user-images.githubusercontent.com/9213955/34201381-df14e54c-e5a6-11e7-8506-dfa25e3dccc4.JPG)
 ## Now Playing and Music Queue
